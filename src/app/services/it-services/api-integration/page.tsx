@@ -5,7 +5,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "API Integration & Development Services India | VLocal Group",
+  title: "API Integration & Development Services India | Codevate Group",
 };
 
 export default function APIIntegrationPage() {
@@ -48,7 +48,7 @@ export default function APIIntegrationPage() {
         label="API INTEGRATION"
         title="Connect Your Systems. Automate Everything."
         highlight="Automate Everything"
-        description="VLocal builds and integrates APIs that connect your CRM, ERP, payment systems, marketing tools, and custom applications — eliminating manual work and data silos."
+        description="Codevate builds and integrates APIs that connect your CRM, ERP, payment systems, marketing tools, and custom applications — eliminating manual work and data silos."
       />
       
       <section className="py-20 px-6 bg-gray-50">

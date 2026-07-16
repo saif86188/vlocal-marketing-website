@@ -5,7 +5,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Cloud & DevOps Services India | VLocal Group",
+  title: "Cloud & DevOps Services India | Codevate Group",
 };
 
 export default function CloudDevOpsPage() {
@@ -48,7 +48,7 @@ export default function CloudDevOpsPage() {
         label="CLOUD & DEVOPS"
         title="Infrastructure That Scales With You."
         highlight="Scales With You"
-        description="VLocal's cloud and DevOps team designs, builds, and manages infrastructure that's fast, reliable, secure, and ready to scale — so your team focuses on product, not servers."
+        description="Codevate's cloud and DevOps team designs, builds, and manages infrastructure that's fast, reliable, secure, and ready to scale — so your team focuses on product, not servers."
       />
       
       <section className="py-20 px-6 bg-gray-50">

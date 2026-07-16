@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Cybersecurity Services India | VLocal Group",
+  title: "Cybersecurity Services India | Codevate Group",
 };
 
 export default function CybersecurityPage() {
@@ -58,7 +58,7 @@ export default function CybersecurityPage() {
         label="CYBERSECURITY"
         title="Protect What You've Built."
         highlight="What You've Built"
-        description="VLocal's cybersecurity practice helps Indian businesses identify vulnerabilities, secure their digital infrastructure, and maintain compliance — before attackers find the gaps."
+        description="Codevate's cybersecurity practice helps Indian businesses identify vulnerabilities, secure their digital infrastructure, and maintain compliance — before attackers find the gaps."
       />
       
       <section className="py-20 px-6 bg-gray-50">

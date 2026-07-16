@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Local SEO Services India | VLocal Group",
+  title: "Local SEO Services India | Codevate Group",
 };
 
 export default function LocalSEOPage() {
@@ -58,7 +58,7 @@ export default function LocalSEOPage() {
         label="LOCAL SEO"
         title="Own Your City. Dominate Local Search."
         highlight="Dominate Local Search"
-        description="When someone searches for your service in your city, they should find you first. VLocal's local SEO service puts your brand at the top of Google Maps and local search results across Indian cities."
+        description="When someone searches for your service in your city, they should find you first. Codevate's local SEO service puts your brand at the top of Google Maps and local search results across Indian cities."
       />
       
       <section className="py-20 px-6 bg-gray-50">

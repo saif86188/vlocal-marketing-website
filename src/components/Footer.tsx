@@ -9,7 +9,7 @@ export default function Footer() {
         {/* Col 1 - Brand */}
         <div className="flex flex-col space-y-4">
           <span className="font-display font-bold text-4xl tracking-tight text-white">
-            VLOCAL
+            CODEVATE
           </span>
           <span className="text-[var(--accent)] font-medium text-xl">
             Your Integrated Growth Partner
@@ -57,10 +57,10 @@ export default function Footer() {
           <h4 className="font-display font-semibold text-xl text-white">Get In Touch</h4>
           <div className="flex flex-col space-y-3">
             <a 
-              href="mailto:business@vlocalgroup.com" 
+              href="mailto:business@codevate.com" 
               className="text-gray-400 text-lg hover:text-[var(--accent)] transition-colors"
             >
-              business@vlocalgroup.com
+              business@codevate.com
             </a>
             <a 
               href="tel:+919000473322" 
@@ -69,12 +69,12 @@ export default function Footer() {
               +91-9000473322
             </a>
             <a 
-              href="https://www.vlocalgroup.com" 
+              href="https://www.codevate.com" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 text-lg hover:text-[var(--accent)] transition-colors"
             >
-              www.vlocalgroup.com
+              www.codevate.com
             </a>
           </div>
         </div>
@@ -83,8 +83,8 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="container-responsive pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 text-base text-gray-500">
-        <div>© 2025 VLocal Group. All Rights Reserved.</div>
-        <div>business@vlocalgroup.com</div>
+        <div>© 2025 Codevate Group. All Rights Reserved.</div>
+        <div>business@codevate.com</div>
       </div>
     </footer>
   );

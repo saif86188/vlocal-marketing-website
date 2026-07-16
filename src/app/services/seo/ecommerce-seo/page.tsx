@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "E-commerce SEO Services India | VLocal Group",
+  title: "E-commerce SEO Services India | Codevate Group",
 };
 
 export default function EcommerceSEOPage() {
@@ -58,7 +58,7 @@ export default function EcommerceSEOPage() {
         label="E-COMMERCE SEO"
         title="Turn Search Traffic Into Sales."
         highlight="Sales"
-        description="E-commerce SEO is about more than rankings — it's about getting the right buyer to the right product at the right moment. VLocal's e-commerce SEO drives qualified organic traffic that converts."
+        description="E-commerce SEO is about more than rankings — it's about getting the right buyer to the right product at the right moment. Codevate's e-commerce SEO drives qualified organic traffic that converts."
       />
       
       <section className="py-20 px-6 bg-gray-50">

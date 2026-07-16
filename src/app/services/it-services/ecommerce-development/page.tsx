@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "E-commerce Development Services India | VLocal Group",
+  title: "E-commerce Development Services India | Codevate Group",
 };
 
 export default function EcommerceDevelopmentPage() {
@@ -58,7 +58,7 @@ export default function EcommerceDevelopmentPage() {
         label="E-COMMERCE DEVELOPMENT"
         title="Online Stores Built to Sell."
         highlight="Built to Sell"
-        description="VLocal builds high-converting e-commerce platforms — from Shopify storefronts to fully custom multi-vendor marketplaces — engineered for the Indian consumer and payment ecosystem."
+        description="Codevate builds high-converting e-commerce platforms — from Shopify storefronts to fully custom multi-vendor marketplaces — engineered for the Indian consumer and payment ecosystem."
       />
       
       <section className="py-20 px-6 bg-gray-50">

@@ -89,7 +89,7 @@ export function Stats() {
         >
           <a
             href="#contact"
-            className="vlocal-btn exec-node-gradient text-black shadow-lg glow-accent"
+            className="codevate-btn exec-node-gradient text-black shadow-lg glow-accent"
           >
             Join Our Success Stories
           </a>

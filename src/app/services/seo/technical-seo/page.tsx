@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Technical SEO Services India | VLocal Group",
+  title: "Technical SEO Services India | Codevate Group",
 };
 
 export default function TechnicalSEOPage() {
@@ -57,7 +57,7 @@ export default function TechnicalSEOPage() {
         label="TECHNICAL SEO"
         title="Make Your Website Search Engine's Favourite."
         highlight="Search Engine's Favourite"
-        description="If search engines can't properly crawl, index, and understand your website, no amount of content or links will help. VLocal's technical SEO team fixes the foundation."
+        description="If search engines can't properly crawl, index, and understand your website, no amount of content or links will help. Codevate's technical SEO team fixes the foundation."
       />
       
       <section className="py-20 px-6 bg-gray-50">

@@ -1,14 +1,14 @@
-# VLOCAL GROUP — Detailed Brand Overview
+# CODEVATE GROUP — Detailed Brand Overview
 
 ## Company Name
 
-**VLocal Group**
+**Codevate Group**
 
 ---
 
 # Brand Meaning
 
-## “VLocal”
+## “Codevate”
 
 Meaning:
 
@@ -118,7 +118,7 @@ Integrated Marketing & Advertising Agency
 
 # Brand Personality
 
-VLocal Group should feel:
+Codevate Group should feel:
 
 * Professional
 * Creative
@@ -326,7 +326,7 @@ SEO-focused marketing blogs.
 
 ---
 
-# SEO Keywords for VLocal
+# SEO Keywords for Codevate
 
 ## High-Potential Keywords
 
@@ -387,6 +387,6 @@ SEO-focused marketing blogs.
 
 # Final Brand Identity Summary
 
-## VLocal Group Is:
+## Codevate Group Is:
 
 > A modern integrated media and marketing agency focused on helping businesses grow through advertising, branding, PR, activation, and digital strategies with a premium creative approach.

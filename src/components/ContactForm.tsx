@@ -52,7 +52,7 @@ export default function ContactForm() {
             required 
             value={formData.name} 
             onChange={handleChange} 
-            className="vlocal-input shadow-sm focus:shadow-md" 
+            className="codevate-input shadow-sm focus:shadow-md" 
           />
         </div>
         <div className="flex flex-col space-y-2">
@@ -64,7 +64,7 @@ export default function ContactForm() {
             required 
             value={formData.company} 
             onChange={handleChange} 
-            className="vlocal-input shadow-sm focus:shadow-md" 
+            className="codevate-input shadow-sm focus:shadow-md" 
           />
         </div>
       </div>
@@ -79,7 +79,7 @@ export default function ContactForm() {
             required 
             value={formData.email} 
             onChange={handleChange} 
-            className="vlocal-input shadow-sm focus:shadow-md" 
+            className="codevate-input shadow-sm focus:shadow-md" 
           />
         </div>
         <div className="flex flex-col space-y-2">
@@ -90,7 +90,7 @@ export default function ContactForm() {
             name="phone" 
             value={formData.phone} 
             onChange={handleChange} 
-            className="vlocal-input shadow-sm focus:shadow-md" 
+            className="codevate-input shadow-sm focus:shadow-md" 
           />
         </div>
       </div>
@@ -102,7 +102,7 @@ export default function ContactForm() {
           name="service" 
           value={formData.service} 
           onChange={handleChange} 
-          className="vlocal-input appearance-none bg-white shadow-sm focus:shadow-md"
+          className="codevate-input appearance-none bg-white shadow-sm focus:shadow-md"
         >
           <option value="" disabled>Select a service</option>
           <option value="Strategy">Strategy</option>
@@ -120,7 +120,7 @@ export default function ContactForm() {
           name="engagement" 
           value={formData.engagement} 
           onChange={handleChange} 
-          className="vlocal-input appearance-none bg-white shadow-sm focus:shadow-md"
+          className="codevate-input appearance-none bg-white shadow-sm focus:shadow-md"
         >
           <option value="" disabled>Select engagement type</option>
           <option value="Agency-on-Record (AOR)">Agency-on-Record (AOR)</option>
@@ -139,11 +139,11 @@ export default function ContactForm() {
           placeholder="Tell us about your brand challenge"
           value={formData.message} 
           onChange={handleChange} 
-          className="vlocal-input h-auto py-4 resize-none shadow-sm focus:shadow-md"
+          className="codevate-input h-auto py-4 resize-none shadow-sm focus:shadow-md"
         ></textarea>
       </div>
 
-      <button type="submit" className="vlocal-btn exec-node-gradient text-black w-full mt-4 shadow-lg hover:shadow-xl py-6 text-lg tracking-wide">
+      <button type="submit" className="codevate-btn exec-node-gradient text-black w-full mt-4 shadow-lg hover:shadow-xl py-6 text-lg tracking-wide">
         Submit Request
       </button>
     </form>

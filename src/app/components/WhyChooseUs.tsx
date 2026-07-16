@@ -39,11 +39,11 @@ export function WhyChooseUs() {
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             <span className="exec-text-gradient">
-              Why VLocal?
+              Why Codevate?
             </span>
           </h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            VLocal combines strategic clarity with execution depth to help brands build meaningful presence across markets.
+            Codevate combines strategic clarity with execution depth to help brands build meaningful presence across markets.
           </p>
         </motion.div>
  

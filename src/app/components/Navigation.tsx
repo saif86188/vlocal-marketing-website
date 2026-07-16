@@ -11,7 +11,7 @@ export function Navigation() {
     { name: "Home", href: "/" },
     { name: "About", href: "/about" },
     { name: "Services", href: "#", isDropdown: true },
-    { name: "Why VLocal", href: "/#why-us" },
+    { name: "Why Codevate", href: "/#why-us" },
   ];
 
   const existingServices = [
@@ -56,7 +56,7 @@ export function Navigation() {
               transition={{ delay: 0.2 }}
               className="flex items-center gap-2"
             >
-              <img src="/logo3.png" alt="VLocal Group Logo" className="h-14 w-auto object-contain" />
+              <img src="/logo3.png" alt="Codevate Group Logo" className="h-14 w-auto object-contain" />
             </motion.div>
 
             <div className="hidden md:flex items-center gap-8">
@@ -150,7 +150,7 @@ export function Navigation() {
                 initial={{ opacity: 0, scale: 0.8 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ delay: 0.4 }}
-                className="vlocal-btn vlocal-btn-sm exec-node-gradient text-black shadow-md hover:shadow-lg transition-all duration-300"
+                className="codevate-btn codevate-btn-sm exec-node-gradient text-black shadow-md hover:shadow-lg transition-all duration-300"
               >
                 Get Started
               </motion.a>

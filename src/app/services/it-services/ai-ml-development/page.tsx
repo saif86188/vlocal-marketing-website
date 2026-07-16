@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "AI/ML Development Services India | VLocal Group",
+  title: "AI/ML Development Services India | Codevate Group",
 };
 
 export default function AIMLDevelopmentPage() {
@@ -69,7 +69,7 @@ export default function AIMLDevelopmentPage() {
         label="AI / ML DEVELOPMENT"
         title="Intelligent Systems. Real Business Impact."
         highlight="Real Business Impact"
-        description="VLocal's AI/ML team builds custom intelligent systems — from NLP chatbots and recommendation engines to computer vision and predictive analytics — that solve real problems for Indian businesses."
+        description="Codevate's AI/ML team builds custom intelligent systems — from NLP chatbots and recommendation engines to computer vision and predictive analytics — that solve real problems for Indian businesses."
       />
       
       <section className="py-20 px-6 bg-gray-50">

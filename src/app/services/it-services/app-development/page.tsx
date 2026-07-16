@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Mobile App Development Services India | VLocal Group",
+  title: "Mobile App Development Services India | Codevate Group",
 };
 
 export default function AppDevelopmentPage() {
@@ -59,7 +59,7 @@ export default function AppDevelopmentPage() {
         label="APP DEVELOPMENT"
         title="Mobile Apps Your Users Will Actually Use."
         highlight="Actually Use"
-        description="VLocal builds native and cross-platform mobile applications for iOS and Android — from consumer apps to enterprise tools — with a focus on performance, usability, and retention."
+        description="Codevate builds native and cross-platform mobile applications for iOS and Android — from consumer apps to enterprise tools — with a focus on performance, usability, and retention."
       />
       
       <section className="py-20 px-6 bg-gray-50">

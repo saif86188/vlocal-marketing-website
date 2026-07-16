@@ -21,7 +21,7 @@ export function About() {
             <div className="relative z-10 rounded-3xl overflow-hidden border border-white/10 shadow-2xl">
               <ImageWithFallback
                 src="https://images.unsplash.com/photo-1542744094-3a31f272c490?q=80&w=2560&auto=format&fit=crop"
-                alt="VLocal Group Strategy Meeting"
+                alt="Codevate Group Strategy Meeting"
                 className="w-full h-auto object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent mix-blend-multiply" />
@@ -46,7 +46,7 @@ export function About() {
             </h2>
             
             <p className="text-lg text-gray-800 font-semibold mb-8 leading-relaxed">
-              VLocal Group represents local business growth, media visibility, and strategic marketing expansion. We are driven by a singular vision: to empower growing businesses with powerful media solutions that create trust and exponential growth.
+              Codevate Group represents local business growth, media visibility, and strategic marketing expansion. We are driven by a singular vision: to empower growing businesses with powerful media solutions that create trust and exponential growth.
             </p>
  
             <div className="space-y-4 mb-8">

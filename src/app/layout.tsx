@@ -6,7 +6,7 @@ import { FloatingContact } from "./components/FloatingContact";
 import Footer from "../components/Footer";
 
 export const metadata: Metadata = {
-  title: "VLocal Group - Voice for Local",
+  title: "Codevate Group - Voice for Local",
   description: "A premium integrated marketing and media agency helping brands scale through creative advertising, strategic media planning, branding, PR, and digital growth.",
 };
 

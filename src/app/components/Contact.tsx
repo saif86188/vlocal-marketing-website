@@ -66,7 +66,7 @@ export function Contact() {
 
             <div className="space-y-6">
               {[
-                { icon: Mail, title: "Email Us", detail: "hello@vlocalgroup.com" },
+                { icon: Mail, title: "Email Us", detail: "hello@codevate.com" },
                 { icon: Phone, title: "Call Us", detail: "+91 98765 43210" },
                 { icon: MapPin, title: "Visit Us", detail: "Bangalore, India" }
               ].map((contact, index) => (
@@ -109,7 +109,7 @@ export function Contact() {
                     value={formData.name}
                     onChange={handleChange}
                     required
-                    className="vlocal-input w-full"
+                    className="codevate-input w-full"
                     placeholder="John Doe"
                   />
                 </div>
@@ -125,7 +125,7 @@ export function Contact() {
                     value={formData.email}
                     onChange={handleChange}
                     required
-                    className="vlocal-input w-full"
+                    className="codevate-input w-full"
                     placeholder="john@example.com"
                   />
                 </div>
@@ -140,7 +140,7 @@ export function Contact() {
                     name="company"
                     value={formData.company}
                     onChange={handleChange}
-                    className="vlocal-input w-full"
+                    className="codevate-input w-full"
                     placeholder="Your Company"
                   />
                 </div>
@@ -156,14 +156,14 @@ export function Contact() {
                     onChange={handleChange}
                     required
                     rows={5}
-                    className="vlocal-input w-full py-3 h-auto resize-none"
+                    className="codevate-input w-full py-3 h-auto resize-none"
                     placeholder="Tell us about your project..."
                   />
                 </div>
 
                 <button
                   type="submit"
-                  className="w-full vlocal-btn exec-node-gradient text-black shadow-lg glow-accent flex items-center justify-center gap-2 group"
+                  className="w-full codevate-btn exec-node-gradient text-black shadow-lg glow-accent flex items-center justify-center gap-2 group"
                 >
                   Send Message
                   <Send className="w-5 h-5 group-hover:translate-x-1 transition-transform" />

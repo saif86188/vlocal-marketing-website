@@ -5,7 +5,7 @@ import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 import { CheckCircle2 } from 'lucide-react';
 
 export const metadata = {
-  title: "Website & App Maintenance Services India | VLocal Group",
+  title: "Website & App Maintenance Services India | Codevate Group",
 };
 
 export default function MaintenanceSupportPage() {
@@ -48,7 +48,7 @@ export default function MaintenanceSupportPage() {
         label="MAINTENANCE & SUPPORT"
         title="Your Digital Products. Always Running. Always Improving."
         highlight="Always Improving"
-        description="VLocal's maintenance and support plans keep your websites, apps, and digital systems performing at their best — with proactive monitoring, fast response times, and continuous improvements."
+        description="Codevate's maintenance and support plans keep your websites, apps, and digital systems performing at their best — with proactive monitoring, fast response times, and continuous improvements."
       />
       
       <section className="py-20 px-6 bg-gray-50">

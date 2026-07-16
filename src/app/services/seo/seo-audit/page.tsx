@@ -6,7 +6,7 @@ import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 import { CheckCircle2 } from 'lucide-react';
 
 export const metadata = {
-  title: "SEO Audit Services India | VLocal Group",
+  title: "SEO Audit Services India | Codevate Group",
 };
 
 export default function SEOAuditPage() {
@@ -58,7 +58,7 @@ export default function SEOAuditPage() {
         label="SEO AUDIT"
         title="Find Out Exactly What's Holding You Back."
         highlight="Holding You Back"
-        description="A VLocal SEO audit is a complete diagnostic of your website's search performance — technical, on-page, off-page, and competitive. You'll know exactly what to fix and in what order."
+        description="A Codevate SEO audit is a complete diagnostic of your website's search performance — technical, on-page, off-page, and competitive. You'll know exactly what to fix and in what order."
       />
       
       <section className="py-20 px-6 bg-gray-50">

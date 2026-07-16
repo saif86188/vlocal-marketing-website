@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ServicesLayoutWrapper } from "./components/ServicesLayoutWrapper";
 
 export const metadata = {
-  title: "Services — VLocal",
+  title: "Services — Codevate",
   description: "An integrated growth framework — designed to take your brand from strategy to real-market impact.",
 };
 
@@ -32,7 +32,7 @@ export default function ServicesLayout({ children }: { children: React.ReactNode
         <p className="text-gray-300 text-xl max-w-xl font-medium relative z-10">
           Let's figure it out together.
         </p>
-        <Link href="/get-started" className="vlocal-btn exec-node-gradient text-black shadow-lg hover:shadow-xl transition-all duration-300 relative z-10 scale-110 mt-4">
+        <Link href="/get-started" className="codevate-btn exec-node-gradient text-black shadow-lg hover:shadow-xl transition-all duration-300 relative z-10 scale-110 mt-4">
           Talk to Us
         </Link>
       </div>

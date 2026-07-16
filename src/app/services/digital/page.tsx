@@ -2,7 +2,7 @@ import { ServiceCard } from "../components/ServiceCard";
 import { LottiePlayer } from "../../../../components/services/LottiePlayer";
 
 export const metadata = {
-  title: "Digital Services — VLocal",
+  title: "Digital Services — Codevate",
 };
 
 export default function DigitalPage() {

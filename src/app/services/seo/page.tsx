@@ -7,8 +7,8 @@ import Link from 'next/link';
 import { MapPin, Settings, ShoppingCart, FileText, Link as LinkIcon, Search } from 'lucide-react';
 
 export const metadata = {
-  title: "SEO Services India | VLocal Group — Rank Higher, Grow Faster",
-  description: "VLocal offers end-to-end SEO services — local SEO, technical SEO, content strategy, link building and ecommerce SEO — for brands across India."
+  title: "SEO Services India | Codevate Group — Rank Higher, Grow Faster",
+  description: "Codevate offers end-to-end SEO services — local SEO, technical SEO, content strategy, link building and ecommerce SEO — for brands across India."
 };
 
 export default function SEOServicesPage() {
@@ -87,7 +87,7 @@ export default function SEOServicesPage() {
         label="SEO SERVICES"
         title="Rank Higher. Get Found. Grow Faster."
         highlight="Grow Faster"
-        description="VLocal's SEO team combines deep technical expertise with content strategy and local market intelligence to help Indian brands dominate search results — from metros to Tier 2 cities."
+        description="Codevate's SEO team combines deep technical expertise with content strategy and local market intelligence to help Indian brands dominate search results — from metros to Tier 2 cities."
       />
 
       {/* Why SEO Matters */}

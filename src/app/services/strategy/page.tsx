@@ -2,7 +2,7 @@ import { ServiceCard } from "../components/ServiceCard";
 import { LottiePlayer } from "../../../../components/services/LottiePlayer";
 
 export const metadata = {
-  title: "Strategy Services — VLocal",
+  title: "Strategy Services — Codevate",
 };
 
 export default function StrategyPage() {

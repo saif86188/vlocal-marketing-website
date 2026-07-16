@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "UI/UX Design Services India | VLocal Group",
+  title: "UI/UX Design Services India | Codevate Group",
 };
 
 export default function UIUXDesignPage() {
@@ -59,7 +59,7 @@ export default function UIUXDesignPage() {
         label="UI / UX DESIGN"
         title="Design That Users Love. Results That Matter."
         highlight="Results That Matter"
-        description="VLocal's design team creates user experiences that reduce friction, build trust, and convert — backed by research, not guesswork. From discovery to production-ready Figma files."
+        description="Codevate's design team creates user experiences that reduce friction, build trust, and convert — backed by research, not guesswork. From discovery to production-ready Figma files."
       />
       
       <section className="py-20 px-6 bg-gray-50">

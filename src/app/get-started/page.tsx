@@ -1,8 +1,8 @@
 import ContactForm from "../../components/ContactForm";
 
 export const metadata = {
-  title: "Get Started — VLocal",
-  description: "Whether you are launching, scaling, or strengthening your brand — VLocal partners with you to create impact where it matters most.",
+  title: "Get Started — Codevate",
+  description: "Whether you are launching, scaling, or strengthening your brand — Codevate partners with you to create impact where it matters most.",
 };
 
 export default function ContactPage() {
@@ -21,7 +21,7 @@ export default function ContactPage() {
             Let's Build Your <span className="exec-text-gradient">Market Presence</span>
           </h1>
           <p className="text-lg text-gray-800 font-semibold max-w-3xl leading-relaxed mt-6">
-            Whether you are launching, scaling, or strengthening your brand — VLocal partners with you to create impact where it matters most.
+            Whether you are launching, scaling, or strengthening your brand — Codevate partners with you to create impact where it matters most.
           </p>
         </section>
 
@@ -34,11 +34,11 @@ export default function ContactPage() {
             <div className="flex flex-col space-y-8">
               <h3 className="text-3xl font-bold text-[var(--text-primary)] tracking-tight">Contact Details</h3>
               <div className="flex flex-col space-y-6">
-                <a href="mailto:business@vlocalgroup.com" className="group text-xl font-bold text-gray-800 hover:text-[var(--accent-hover)] transition-colors flex items-center space-x-4">
+                <a href="mailto:business@codevate.com" className="group text-xl font-bold text-gray-800 hover:text-[var(--accent-hover)] transition-colors flex items-center space-x-4">
                   <div className="w-12 h-12 rounded-2xl exec-node-gradient flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
                     <svg className="w-6 h-6 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
                   </div>
-                  <span>business@vlocalgroup.com</span>
+                  <span>business@codevate.com</span>
                 </a>
                 <a href="tel:+919000473322" className="group text-xl font-bold text-gray-800 hover:text-[var(--accent-hover)] transition-colors flex items-center space-x-4">
                   <div className="w-12 h-12 rounded-2xl exec-node-gradient flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
@@ -46,11 +46,11 @@ export default function ContactPage() {
                   </div>
                   <span>+91-9000473322</span>
                 </a>
-                <a href="https://www.vlocalgroup.com" target="_blank" rel="noopener noreferrer" className="group text-xl font-bold text-gray-800 hover:text-[var(--accent-hover)] transition-colors flex items-center space-x-4">
+                <a href="https://www.codevate.com" target="_blank" rel="noopener noreferrer" className="group text-xl font-bold text-gray-800 hover:text-[var(--accent-hover)] transition-colors flex items-center space-x-4">
                   <div className="w-12 h-12 rounded-2xl exec-node-gradient flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
                     <svg className="w-6 h-6 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" /></svg>
                   </div>
-                  <span>www.vlocalgroup.com</span>
+                  <span>www.codevate.com</span>
                 </a>
               </div>
             </div>

@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Link Building Services India | VLocal Group",
+  title: "Link Building Services India | Codevate Group",
 };
 
 export default function LinkBuildingPage() {
@@ -58,7 +58,7 @@ export default function LinkBuildingPage() {
         label="LINK BUILDING"
         title="Build Authority. Earn Trust. Climb Rankings."
         highlight="Earn Trust"
-        description="Backlinks are still the single strongest ranking signal. VLocal's link building service earns high-quality, relevant links through editorial outreach, digital PR, and strategic content — not spammy shortcuts."
+        description="Backlinks are still the single strongest ranking signal. Codevate's link building service earns high-quality, relevant links through editorial outreach, digital PR, and strategic content — not spammy shortcuts."
       />
       
       <section className="py-20 px-6 bg-gray-50">

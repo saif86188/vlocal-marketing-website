@@ -6,8 +6,8 @@ import Link from 'next/link';
 import { Globe, Smartphone, Cpu, ShoppingBag, Layout, Database, GitBranch, Cloud, Wrench, Shield } from 'lucide-react';
 
 export const metadata = {
-  title: "IT Services India | VLocal Group — Web, App, AI/ML & Digital Solutions",
-  description: "VLocal's IT division delivers end-to-end digital solutions — web development, mobile apps, AI/ML, UI/UX, cloud, and cybersecurity — built for Indian businesses."
+  title: "IT Services India | Codevate Group — Web, App, AI/ML & Digital Solutions",
+  description: "Codevate's IT division delivers end-to-end digital solutions — web development, mobile apps, AI/ML, UI/UX, cloud, and cybersecurity — built for Indian businesses."
 };
 
 export default function ITServicesPage() {
@@ -130,10 +130,10 @@ export default function ITServicesPage() {
         label="IT SERVICES"
         title="Technology That Builds. Digital That Grows."
         highlight="Digital That Grows"
-        description="VLocal's technology arm delivers production-grade digital products — from websites and mobile apps to AI/ML systems and cloud infrastructure — designed for Indian businesses that mean business."
+        description="Codevate's technology arm delivers production-grade digital products — from websites and mobile apps to AI/ML systems and cloud infrastructure — designed for Indian businesses that mean business."
       />
 
-      {/* Why Choose VLocal for IT */}
+      {/* Why Choose Codevate for IT */}
       <section className="py-16 bg-gray-50 border-y border-gray-100">
         <div className="max-w-7xl mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -215,7 +215,7 @@ export default function ITServicesPage() {
 
       <ServiceCTA 
         heading="Have a Digital Product Idea?"
-        sub="From concept to launch — VLocal's IT team builds it."
+        sub="From concept to launch — Codevate's IT team builds it."
         buttonText="Start Your Project"
         buttonHref="/contact"
       />

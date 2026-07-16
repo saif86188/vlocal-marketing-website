@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Content SEO & Strategy Services India | VLocal Group",
+  title: "Content SEO & Strategy Services India | Codevate Group",
 };
 
 export default function ContentSEOPage() {
@@ -58,7 +58,7 @@ export default function ContentSEOPage() {
         label="CONTENT SEO"
         title="Build Authority. Earn Rankings. Drive Trust."
         highlight="Earn Rankings"
-        description="Content without strategy is just noise. VLocal's content SEO service builds topical authority through data-driven content that ranks, engages, and converts across Indian markets."
+        description="Content without strategy is just noise. Codevate's content SEO service builds topical authority through data-driven content that ranks, engages, and converts across Indian markets."
       />
       
       <section className="py-20 px-6 bg-gray-50">

@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "About VLocal",
-  description: "VLocal emerged during the COVID-19 pandemic when India turned inward — reaffirming the need to amplify local voices and build self-reliant brands.",
+  title: "About Codevate",
+  description: "Codevate emerged during the COVID-19 pandemic when India turned inward — reaffirming the need to amplify local voices and build self-reliant brands.",
 };
 
 export default function AboutPage() {
@@ -19,7 +19,7 @@ export default function AboutPage() {
             Born in India. <br className="hidden md:block" />Built for <span className="exec-text-gradient">India.</span>
           </h1>
           <p className="text-lg text-gray-800 font-semibold max-w-3xl leading-relaxed mt-6">
-            VLocal emerged during the COVID-19 pandemic when India turned inward — reaffirming the need to amplify local voices and build self-reliant brands.
+            Codevate emerged during the COVID-19 pandemic when India turned inward — reaffirming the need to amplify local voices and build self-reliant brands.
           </p>
         </section>
 
@@ -35,7 +35,7 @@ export default function AboutPage() {
           </div>
           <div>
             <p className="text-lg text-gray-800 font-semibold leading-relaxed">
-              VLocal Group was born during a defining global shift. As the world slowed during the COVID-19 pandemic, India turned inward — reaffirming the need to amplify local voices and build self-reliant brands. With leadership experience spanning HT Media, Times Group, Inox Cinema, BIG FM, BBC, India Ahead News, Reliance, and INOX — our founders bring strategy, purpose and commitment to what we do.
+              Codevate Group was born during a defining global shift. As the world slowed during the COVID-19 pandemic, India turned inward — reaffirming the need to amplify local voices and build self-reliant brands. With leadership experience spanning HT Media, Times Group, Inox Cinema, BIG FM, BBC, India Ahead News, Reliance, and INOX — our founders bring strategy, purpose and commitment to what we do.
             </p>
           </div>
         </section>
@@ -124,7 +124,7 @@ export default function AboutPage() {
             <p className="text-gray-300 text-xl max-w-xl font-medium relative z-10">
               Let's build something that works in real markets.
             </p>
-            <a href="/get-started" className="vlocal-btn exec-node-gradient text-black shadow-lg hover:shadow-xl transition-all duration-300 relative z-10 scale-110 mt-4">
+            <a href="/get-started" className="codevate-btn exec-node-gradient text-black shadow-lg hover:shadow-xl transition-all duration-300 relative z-10 scale-110 mt-4">
               Start a Conversation
             </a>
           </div>

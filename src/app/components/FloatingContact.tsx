@@ -66,7 +66,7 @@ export function FloatingContact() {
                 transition={{ delay: 0.2 }}
                 className="relative z-10 bg-white p-3 shadow-sm rounded-[10px] rounded-tl-none self-start max-w-[85%] mt-2 border border-gray-100"
               >
-                <p className="text-[#111b21] text-[14px] leading-snug">Welcome to VLocal, How can we help you? :)</p>
+                <p className="text-[#111b21] text-[14px] leading-snug">Welcome to Codevate, How can we help you? :)</p>
                 <p className="text-[#667781] text-[10px] text-right mt-1.5 font-medium">Just now</p>
               </motion.div>
             </div>
@@ -121,7 +121,7 @@ export function FloatingContact() {
               </motion.button>
               
               <motion.a 
-                href="mailto:business@vlocalgroup.com"
+                href="mailto:business@codevate.com"
                 initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.05 }}
                 className="w-[52px] h-[52px] rounded-full bg-[#ff3b5c] flex items-center justify-center shadow-lg hover:scale-110 transition-transform"
               >

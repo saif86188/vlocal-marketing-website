@@ -2,14 +2,14 @@
 import React from "react";
 
 const clients = [
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/download-1.png.webp",
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/cropped-sit-icon-300x300.png.webp",
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/meyer.png.webp",
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/fb6d2faa5e6b89ada6da0d728643bd94090276adf29cf8a0da98ded9f58e5a7c-300x169.webp",
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/download-3.png.webp",
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/Suzuki_logo_2.svg-300x202.png.webp",
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/sunfeast-vector-logo-300x167.png.webp",
-  "https://www.vlocalgroup.com/wp-content/uploads/2024/11/download-2.png.webp"
+  "https://www.codevate.com/wp-content/uploads/2024/11/download-1.png.webp",
+  "https://www.codevate.com/wp-content/uploads/2024/11/cropped-sit-icon-300x300.png.webp",
+  "https://www.codevate.com/wp-content/uploads/2024/11/meyer.png.webp",
+  "https://www.codevate.com/wp-content/uploads/2024/11/fb6d2faa5e6b89ada6da0d728643bd94090276adf29cf8a0da98ded9f58e5a7c-300x169.webp",
+  "https://www.codevate.com/wp-content/uploads/2024/11/download-3.png.webp",
+  "https://www.codevate.com/wp-content/uploads/2024/11/Suzuki_logo_2.svg-300x202.png.webp",
+  "https://www.codevate.com/wp-content/uploads/2024/11/sunfeast-vector-logo-300x167.png.webp",
+  "https://www.codevate.com/wp-content/uploads/2024/11/download-2.png.webp"
 ];
 
 export function OurClients() {

@@ -5,7 +5,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "CMS Development Services India | VLocal Group",
+  title: "CMS Development Services India | Codevate Group",
 };
 
 export default function CMSDevelopmentPage() {
@@ -48,7 +48,7 @@ export default function CMSDevelopmentPage() {
         label="CMS DEVELOPMENT"
         title="Content Management That Your Team Can Actually Use."
         highlight="Actually Use"
-        description="VLocal builds headless and traditional CMS solutions that give your marketing and content teams full control — without needing a developer for every update."
+        description="Codevate builds headless and traditional CMS solutions that give your marketing and content teams full control — without needing a developer for every update."
       />
       
       <section className="py-20 px-6 bg-gray-50">

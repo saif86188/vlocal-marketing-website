@@ -21,7 +21,7 @@ export function ServiceCTA({ heading, sub, buttonText, buttonHref }: ServiceCTAP
         <p className="text-gray-300 text-lg md:text-xl max-w-2xl font-medium relative z-10 leading-relaxed">{sub}</p>
         <Link 
           href={buttonHref}
-          className="vlocal-btn exec-node-gradient text-black shadow-lg hover:shadow-xl transition-all duration-300 relative z-10 scale-110 mt-4 px-8 py-4 rounded-full font-bold inline-flex items-center justify-center gap-2"
+          className="codevate-btn exec-node-gradient text-black shadow-lg hover:shadow-xl transition-all duration-300 relative z-10 scale-110 mt-4 px-8 py-4 rounded-full font-bold inline-flex items-center justify-center gap-2"
         >
           {buttonText}
         </Link>

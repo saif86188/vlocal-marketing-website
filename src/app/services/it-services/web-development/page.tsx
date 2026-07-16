@@ -6,7 +6,7 @@ import { TechStack } from '../../../../components/services/TechStack';
 import { ServiceCTA } from '../../../../components/services/ServiceCTA';
 
 export const metadata = {
-  title: "Web Development Services India | VLocal Group",
+  title: "Web Development Services India | Codevate Group",
 };
 
 export default function WebDevelopmentPage() {
@@ -58,7 +58,7 @@ export default function WebDevelopmentPage() {
         label="WEB DEVELOPMENT"
         title="Websites Built to Perform. Not Just to Exist."
         highlight="Perform"
-        description="VLocal builds fast, scalable, and SEO-ready websites and web applications — from corporate sites to complex web platforms — using modern technology stacks."
+        description="Codevate builds fast, scalable, and SEO-ready websites and web applications — from corporate sites to complex web platforms — using modern technology stacks."
       />
       
       <section className="py-20 px-6 bg-gray-50">

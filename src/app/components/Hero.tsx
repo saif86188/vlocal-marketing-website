@@ -70,14 +70,14 @@ export function Hero() {
             >
               <a
                 href="#contact"
-                className="vlocal-btn exec-node-gradient text-black shadow-[0_0_30px_rgba(251,193,58,0.25)] hover:shadow-[0_0_45px_rgba(251,193,58,0.45)] group"
+                className="codevate-btn exec-node-gradient text-black shadow-[0_0_30px_rgba(251,193,58,0.25)] hover:shadow-[0_0_45px_rgba(251,193,58,0.45)] group"
               >
                 Get Free Consultation
                 <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
               </a>
               <a
                 href="#services"
-                className="vlocal-btn glass-card text-black border border-white/60 group backdrop-blur-md hover:bg-white/40 shadow-sm"
+                className="codevate-btn glass-card text-black border border-white/60 group backdrop-blur-md hover:bg-white/40 shadow-sm"
               >
                 <Play className="w-5 h-5 mr-2 text-[var(--accent)] fill-[var(--accent)]/10" />
                 Explore Services
