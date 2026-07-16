@@ -33,7 +33,7 @@ export function Footer() {
               className="mb-6"
             >
               <div className="flex items-center gap-2 mb-4">
-                <img src="/logo3.png" alt="Codevate Group Logo" className="h-16 w-auto object-contain bg-white/95 p-2 rounded-xl" />
+                <img src="/logo3.png" alt="Codevate Group Logo" className="h-16 w-auto object-contain" />
               </div>
               <p className="text-gray-300 leading-relaxed mb-6 font-medium">
                 A premium integrated marketing and media agency helping brands scale through creative advertising, strategic media planning, branding, PR, and digital growth.
